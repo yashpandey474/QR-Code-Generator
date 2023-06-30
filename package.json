@@ -1,0 +1,12 @@
+{
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "description": "Creating a QR from user input",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yash Pandey",
+  "license": "ISC"
+}
